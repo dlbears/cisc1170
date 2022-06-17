@@ -1,0 +1,370 @@
+Compiling...
+Running: echo 10 11 12 13 14 | java GradeCalculator
+Homework = 
+CodeLab = 
+Midterm1 = 
+Midterm2 = 
+Final = 
+The total score is 60
+ Running: echo 5 4 | java RectangleStat
+width = 
+length = 
+When one side is 5 and the other side is 4, the area is 20 and the perimeter is 18
+ Running: echo 3 | java CircleStat
+radius = 
+When the radius is 3 the circumference is 18.84955592153876 and the area is 28.274333882308138./run.sh: line 20: StartPrompt]133: command not found
+./run.sh: line 20: A[38: command not found
+./run.sh: line 20: 5: command not found
+./run.sh: line 20: 221m❯[39m[38: command not found
+./run.sh: line 20: 5: command not found
+./run.sh: line 20: 209m❯[39m[38: command not found
+./run.sh: line 20: 5: command not found
+./run.sh: line 20: 197m❯[39m: command not found
+./run.sh: line 20: StartPrompt]697: command not found
+./run.sh: line 20: EndPrompt[114D: command not found
+./run.sh: line 21: ]697: command not found
+./run.sh: line 21: PreExec]133: command not found
+./run.sh: line 21: C: command not found
+./run.sh: line 21: ]133: command not found
+./run.sh: line 21: D: command not found
+./run.sh: line 21: 0]1337: command not found
+./run.sh: line 22: [38: command not found
+./run.sh: line 22: 5: command not found
+./run.sh: line 22: 221mdlbears[39m[38: command not found
+./run.sh: line 22: 5: command not found
+./run.sh: line 22: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 22: 5: command not found
+./run.sh: line 22: 209m/Users/Shared/git_repos/cisc1170/hw1[39m: No such file or directory
+./run.sh: line 23: ]697: command not found
+./run.sh: line 23: StartPrompt]133: command not found
+./run.sh: line 23: A[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 221m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 209m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 197m❯[39m: command not found
+./run.sh: line 23: StartPrompt]697: command not found
+./run.sh: line 23: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 23: StartPrompt]133: command not found
+./run.sh: line 23: A[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 221m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 209m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 197m❯[39m: command not found
+./run.sh: line 23: StartPrompt]697: command not found
+./run.sh: line 23: EndPrompt[122D[?2004hggit: command not found
+./run.sh: line 23: StartPrompt]133: command not found
+./run.sh: line 23: A[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 221m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 209m❯[39m[38: command not found
+./run.sh: line 23: 5: command not found
+./run.sh: line 23: 197m❯[39m: command not found
+./run.sh: line 23: StartPrompt]697: command not found
+./run.sh: line 23: EndPrompt[117D: command not found
+./run.sh: line 24: ]697: command not found
+./run.sh: line 24: PreExec]133: command not found
+./run.sh: line 24: C: command not found
+./run.sh: line 24: ]133: command not found
+./run.sh: line 24: D: command not found
+./run.sh: line 24: 0]1337: command not found
+./run.sh: line 25: [38: command not found
+./run.sh: line 25: 5: command not found
+./run.sh: line 25: 221mdlbears[39m[38: command not found
+./run.sh: line 25: 5: command not found
+./run.sh: line 25: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 25: 5: command not found
+./run.sh: line 25: 209m/Users/Shared/git_repos/cisc1170[39m: No such file or directory
+./run.sh: line 26: ]697: command not found
+./run.sh: line 26: StartPrompt]133: command not found
+./run.sh: line 26: A[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 221m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 209m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 197m❯[39m: command not found
+./run.sh: line 26: StartPrompt]697: command not found
+./run.sh: line 26: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 26: StartPrompt]133: command not found
+./run.sh: line 26: A[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 221m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 209m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 197m❯[39m: command not found
+./run.sh: line 26: StartPrompt]697: command not found
+./run.sh: line 26: EndPrompt[122D[?2004hggit: command not found
+./run.sh: line 26: StartPrompt]133: command not found
+./run.sh: line 26: A[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 221m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 209m❯[39m[38: command not found
+./run.sh: line 26: 5: command not found
+./run.sh: line 26: 197m❯[39m: command not found
+./run.sh: line 26: StartPrompt]697: command not found
+./run.sh: line 26: EndPrompt[114D: command not found
+./run.sh: line 27: ]697: command not found
+./run.sh: line 27: PreExec]133: command not found
+./run.sh: line 27: C: command not found
+./run.sh: line 27: [33mhint:: command not found
+./run.sh: line 28: [33mhint:: command not found
+./run.sh: line 29: [33mhint:: command not found
+./run.sh: line 30: [33mhint:: command not found
+./run.sh: line 31: name: No such file or directory
+./run.sh: line 32: [33mhint:: command not found
+./run.sh: line 33: [33mhint:: command not found
+./run.sh: line 34: [33mhint:: command not found
+./run.sh: line 35: [33mhint:: command not found
+./run.sh: line 36: name: No such file or directory
+./run.sh: line 37: Initialized: command not found
+./run.sh: line 38: ]133: command not found
+./run.sh: line 38: D: command not found
+./run.sh: line 38: 0]1337: command not found
+./run.sh: line 39: [38: command not found
+./run.sh: line 39: 5: command not found
+./run.sh: line 39: 221mdlbears[39m[38: command not found
+./run.sh: line 39: 5: command not found
+./run.sh: line 39: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 39: 5: command not found
+./run.sh: line 39: 209m/Users/Shared/git_repos/cisc1170[39m: No such file or directory
+./run.sh: line 40: ]697: command not found
+./run.sh: line 40: StartPrompt]133: command not found
+./run.sh: line 40: A[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 221m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 209m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 197m❯[39m: command not found
+./run.sh: line 40: StartPrompt[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 242mNo[39m]697: command not found
+./run.sh: line 40: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 40: StartPrompt]133: command not found
+./run.sh: line 40: A[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 221m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 209m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 197m❯[39m: command not found
+./run.sh: line 40: StartPrompt[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 242mNo[39m]697: command not found
+./run.sh: line 40: EndPrompt[122D[?2004hgit: command not found
+./run.sh: line 40: StartPrompt]133: command not found
+./run.sh: line 40: A[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 221m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 209m❯[39m[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 197m❯[39m: command not found
+./run.sh: line 40: StartPrompt[38: command not found
+./run.sh: line 40: 5: command not found
+./run.sh: line 40: 242mNo[39m]697: command not found
+./run.sh: line 40: EndPrompt[114D: command not found
+./run.sh: line 41: ]697: command not found
+./run.sh: line 41: PreExec]133: command not found
+./run.sh: line 41: C: command not found
+./run.sh: line 41: zsh:: command not found
+./run.sh: line 42: ]133: command not found
+./run.sh: line 42: D: command not found
+./run.sh: line 42: 127]1337: command not found
+./run.sh: line 43: [38: command not found
+./run.sh: line 43: 5: command not found
+./run.sh: line 43: 221mdlbears[39m[38: command not found
+./run.sh: line 43: 5: command not found
+./run.sh: line 43: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 43: 5: command not found
+./run.sh: line 43: 209m/Users/Shared/git_repos/cisc1170[39m: No such file or directory
+./run.sh: line 44: ]697: command not found
+./run.sh: line 44: StartPrompt]133: command not found
+./run.sh: line 44: A[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 197m❯❯❯[39m: command not found
+./run.sh: line 44: B]697: command not found
+./run.sh: line 44: EndPrompt]697: command not found
+./run.sh: line 44: NewCmd[K[120C]697: command not found
+./run.sh: line 44: StartPrompt[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 242mNo[39m]697: command not found
+./run.sh: line 44: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 44: StartPrompt]133: command not found
+./run.sh: line 44: A[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 197m❯❯❯[39m: command not found
+./run.sh: line 44: B]697: command not found
+./run.sh: line 44: EndPrompt]697: command not found
+./run.sh: line 44: NewCmd[K[120C]697: command not found
+./run.sh: line 44: StartPrompt[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 242mNo[39m]697: command not found
+./run.sh: line 44: EndPrompt[122D[?2004hc: command not found
+./run.sh: line 44: StartPrompt]133: command not found
+./run.sh: line 44: A[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 197m❯❯❯[39m: command not found
+./run.sh: line 44: B]697: command not found
+./run.sh: line 44: EndPrompt]697: command not found
+./run.sh: line 44: NewCmdls[K[118C]697: command not found
+./run.sh: line 44: StartPrompt[38: command not found
+./run.sh: line 44: 5: command not found
+./run.sh: line 44: 242mNo[39m]697: command not found
+./run.sh: line 44: EndPrompt[120D: command not found
+./run.sh: line 45: ]697: command not found
+./run.sh: line 45: PreExec]133: command not found
+./run.sh: line 45: C: command not found
+./run.sh: line 45: README.md: command not found
+./run.sh: line 46: ]133: command not found
+./run.sh: line 46: D: command not found
+./run.sh: line 46: 0]1337: command not found
+./run.sh: line 47: [38: command not found
+./run.sh: line 47: 5: command not found
+./run.sh: line 47: 221mdlbears[39m[38: command not found
+./run.sh: line 47: 5: command not found
+./run.sh: line 47: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 47: 5: command not found
+./run.sh: line 47: 209m/Users/Shared/git_repos/cisc1170[39m: No such file or directory
+./run.sh: line 48: ]697: command not found
+./run.sh: line 48: StartPrompt]133: command not found
+./run.sh: line 48: A[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 221m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 209m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 197m❯[39m: command not found
+./run.sh: line 48: StartPrompt[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 242mNo[39m]697: command not found
+./run.sh: line 48: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 48: StartPrompt]133: command not found
+./run.sh: line 48: A[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 221m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 209m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 197m❯[39m: command not found
+./run.sh: line 48: StartPrompt[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 242mNo[39m]697: command not found
+./run.sh: line 48: EndPrompt[122D[?2004hccd: command not found
+./run.sh: line 48: StartPrompt]133: command not found
+./run.sh: line 48: A[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 221m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 209m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 197m❯[39m: command not found
+./run.sh: line 48: StartPrompt[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 242mNo[39m]697: command not found
+./run.sh: line 48: EndPrompt[115D[0m: command not found
+./run.sh: line 48: StartPrompt]133: command not found
+./run.sh: line 48: A[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 221m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 209m❯[39m[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 197m❯[39m: command not found
+./run.sh: line 48: StartPrompt[38: command not found
+./run.sh: line 48: 5: command not found
+./run.sh: line 48: 242mNo[39m]697: command not found
+./run.sh: line 48: EndPrompt[116D: command not found
+./run.sh: line 49: ]697: command not found
+./run.sh: line 49: PreExec]133: command not found
+./run.sh: line 49: C: command not found
+./run.sh: line 49: ]133: command not found
+./run.sh: line 49: D: command not found
+./run.sh: line 49: 0]1337: command not found
+./run.sh: line 50: [38: command not found
+./run.sh: line 50: 5: command not found
+./run.sh: line 50: 221mdlbears[39m[38: command not found
+./run.sh: line 50: 5: command not found
+./run.sh: line 50: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 50: 5: command not found
+./run.sh: line 50: 209m/Users/Shared/git_repos/cisc1170/hw1[39m: No such file or directory
+./run.sh: line 51: ]697: command not found
+./run.sh: line 51: StartPrompt]133: command not found
+./run.sh: line 51: A[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 221m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 209m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 197m❯[39m: command not found
+./run.sh: line 51: StartPrompt[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 242mNo[39m]697: command not found
+./run.sh: line 51: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 51: StartPrompt]133: command not found
+./run.sh: line 51: A[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 221m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 209m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 197m❯[39m: command not found
+./run.sh: line 51: StartPrompt[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 242mNo[39m]697: command not found
+./run.sh: line 51: EndPrompt[122D[?2004hcd: command not found
+./run.sh: line 51: StartPrompt]133: command not found
+./run.sh: line 51: A[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 221m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 209m❯[39m[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 197m❯[39m: command not found
+./run.sh: line 51: StartPrompt[38: command not found
+./run.sh: line 51: 5: command not found
+./run.sh: line 51: 242mNo[39m]697: command not found
+./run.sh: line 51: EndPrompt[114D: command not found
+./run.sh: line 52: ]697: command not found
+./run.sh: line 52: PreExec]133: command not found
+./run.sh: line 52: C: command not found
+./run.sh: line 52: ]133: command not found
+./run.sh: line 52: D: command not found
+./run.sh: line 52: 127]1337: command not found
+./run.sh: line 53: [38: command not found
+./run.sh: line 53: 5: command not found
+./run.sh: line 53: 221mdlbears[39m[38: command not found
+./run.sh: line 53: 5: command not found
+./run.sh: line 53: 221m@MacBook-Pro-stable[39m: command not found
+./run.sh: line 53: 5: command not found
+./run.sh: line 53: 209m/Users/Shared/git_repos/cisc1170/hw1[39m: No such file or directory
+./run.sh: line 54: ]697: command not found
+./run.sh: line 54: StartPrompt]133: command not found
+./run.sh: line 54: A[38: command not found
+./run.sh: line 54: 5: command not found
+./run.sh: line 54: 197m❯❯❯[39m: command not found
+./run.sh: line 54: B]697: command not found
+./run.sh: line 54: EndPrompt]697: command not found
+./run.sh: line 54: NewCmd[K[120C]697: command not found
+./run.sh: line 54: StartPrompt[38: command not found
+./run.sh: line 54: 5: command not found
+./run.sh: line 54: 242mNo[39m]697: command not found
+./run.sh: line 54: EndPrompt[122D[?1h=[0m[27m[24m[J]697: command not found
+./run.sh: line 54: StartPrompt]133: command not found
+./run.sh: line 54: A[38: command not found
+./run.sh: line 54: 5: command not found
+./run.sh: line 54: 197m❯❯❯[39m: command not found
+./run.sh: line 54: B]697: command not found
+./run.sh: line 54: EndPrompt]697: command not found
+./run.sh: line 54: NewCmd[K[120C]697: command not found
+./run.sh: line 54: StartPrompt[38: command not found
+./run.sh: line 54: 5: command not found
+./run.sh: line 54: 242mNo[39m]697: command not found
+./run.sh: line 54: EndPrompt[122D[?2004h: command not found
