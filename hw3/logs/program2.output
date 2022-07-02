@@ -1,0 +1,133 @@
+From terminal session.
+❯❯❯ java Program2                                                                                       master …
+
+Choose a shape: 
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 0
+
+Length of line = 10
+
+Line Stats:
+         Length = 10.000000
+         Area = 0
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 1
+
+Radius of circle = 5
+
+Circle Stats: 
+        Radius = 5.000000
+        Circumference = 31.415927
+        Area = 78.539816
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 2
+
+Side of Square: 5
+
+Square Stats: 
+        Side = 5.000000
+        Perimeter = 20.000000
+        Area = 25.000000
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 3
+
+Side 1 of triangle: 3
+
+Side 2 of triangle: 4
+
+Side 3 of triangle: 5
+
+Triangle Stats: 
+        Sides = [ 3.000000, 4.000000, 5.000000 ] 
+        Perimeter = 12.000000
+        Area = 6.000000
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 4
+
+Width of Rectangle: 3
+Height of Rectangle: 
+2
+
+Rectangle Stats: 
+        Width = 3.000000
+        Height = 2.000000
+        Perimeter = 10.000000
+        Area = 6.000000
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: 33
+
+Length of side = 12
+
+Regular Polygon Stats:
+        Sides = 33
+        Length = 12.000000
+        Perimeter = 396.000000
+        Area = 13578.902136
+
+
+Choose a shape: 
+        < 0 - Exit
+        0 - Line
+        1 - Circle
+        2 - Square
+        3 - Triangle
+        4 - Rectangle
+        >= 5 - Regular n-Polygon
+
+option: -1

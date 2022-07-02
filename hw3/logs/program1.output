@@ -1,0 +1,40 @@
+The factorial of 1, is 1.
+The sum of squares is 1.
+First n = 1 fibonacci numbers: 1
+
+The factorial of 2, is 2.
+The sum of squares is 5.
+First n = 2 fibonacci numbers: 1, 2
+
+The factorial of 3, is 6.
+The sum of squares is 14.
+First n = 3 fibonacci numbers: 1, 2, 3
+
+The factorial of 4, is 24.
+The sum of squares is 30.
+First n = 4 fibonacci numbers: 1, 2, 3, 5
+
+The factorial of 5, is 120.
+The sum of squares is 55.
+First n = 5 fibonacci numbers: 1, 2, 3, 5, 8
+
+The factorial of 6, is 720.
+The sum of squares is 91.
+First n = 6 fibonacci numbers: 1, 2, 3, 5, 8, 13
+
+The factorial of 7, is 5040.
+The sum of squares is 140.
+First n = 7 fibonacci numbers: 1, 2, 3, 5, 8, 13, 21
+
+The factorial of 8, is 40320.
+The sum of squares is 204.
+First n = 8 fibonacci numbers: 1, 2, 3, 5, 8, 13, 21, 34
+
+The factorial of 9, is 362880.
+The sum of squares is 285.
+First n = 9 fibonacci numbers: 1, 2, 3, 5, 8, 13, 21, 34, 55
+
+The factorial of 10, is 3628800.
+The sum of squares is 385.
+First n = 10 fibonacci numbers: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89
+
