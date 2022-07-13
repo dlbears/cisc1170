@@ -1,0 +1,1 @@
+To compile and run the program: cd src && javac hw4.java && java hw4
