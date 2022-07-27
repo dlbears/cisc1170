@@ -1,0 +1,1 @@
+To compile and run the program from src directory: javac Month.java MonthDays.java && java MonthDays
